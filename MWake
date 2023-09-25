@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web nhạc</title>
+    <meta charset="utf-8">
+</head>
+<body>
+   <div>
+        <h1> RPT MCK</h1>
+        <img src="https://35express.org/wp-content/uploads/2021/04/RPT-MCK-la-ai-35express-1.jpg.webp" alt=""> 
+        <h2><a href="https://www.youtube.com/@hoanglongmck">Kênh youtube của MCK</a></h2>
+        <table> Top list
+            <thead>
+                <th> Tên bài hát</th>
+                <th> Link bài hát</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td> Va vào giai điệu này</td>
+                    <td> <a href="https://www.youtube.com/watch?v=M7UlJ0m-yy4">bấm vào đây</a></td>
+                </tr>
+                <tr>
+                    <td> Anh đã ổn hơn</td>
+                    <td> <a href="https://www.youtube.com/watch?v=dz6xe0xXqYE">bấm vào đây</a></td>
+                </tr>
+            </tbody>
+</div>
+</body>    
+</html>
